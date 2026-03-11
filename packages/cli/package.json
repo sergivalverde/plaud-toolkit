@@ -1,0 +1,11 @@
+{
+  "name": "@plaud/cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "plaud": "./bin/plaud.ts"
+  },
+  "dependencies": {
+    "@plaud/core": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@plaud/mcp",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": {
+    "plaud-mcp": "./src/index.ts"
+  },
+  "dependencies": {
+    "@plaud/core": "*",
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
